@@ -1,0 +1,7 @@
+.idea
+__pycache__
+output.mp3
+logs
+pyparser
+demo
+*.cprofile
